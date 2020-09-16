@@ -48,7 +48,9 @@ public class Employee {
 		return "Employee [eid=" + eid + ", ename=" + ename + ", deg=" + deg + ", salary=" + salary + ", dept=" + dept
 				+ "]";
 	}
-	
+	public Employee()
+	{
+		
 	
 
 }
